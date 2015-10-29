@@ -5,7 +5,7 @@ This repository is used to track milestones/roadmap/features for Qubes OS.
 
 <img src="https://rootkovska.github.io/qubes-roadmap/roadmap.png">
 
-Also avilable as [a PDF](https://rootkovska.github.io/qubes-roadmap/roadmap.pdf).
+Also available as [a PDF](https://rootkovska.github.io/qubes-roadmap/roadmap.pdf).
 
 It's currently maintained as Graphviz's dot file which describes a graph showing
 planned features, their deps and when we expect them to be released.
